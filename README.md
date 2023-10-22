@@ -14,4 +14,4 @@
 # Запуск
  - Клонировать проект
  - Установить виртуальное окружение и зависимости `pip install -r requirements.txt`
- - Запустить миграции и добавить фикстуры `python manage.py migrate`
+ - Запустить миграции `python manage.py migrate`
